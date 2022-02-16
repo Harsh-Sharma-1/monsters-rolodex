@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Harsh-Sharma-1/monsters-rolodex/static/css/main.77ff05bb.css",
-    "main.js": "/Harsh-Sharma-1/monsters-rolodex/static/js/main.0578ab05.js",
-    "static/js/787.71774a75.chunk.js": "/Harsh-Sharma-1/monsters-rolodex/static/js/787.71774a75.chunk.js",
-    "index.html": "/Harsh-Sharma-1/monsters-rolodex/index.html",
-    "main.77ff05bb.css.map": "/Harsh-Sharma-1/monsters-rolodex/static/css/main.77ff05bb.css.map",
-    "main.0578ab05.js.map": "/Harsh-Sharma-1/monsters-rolodex/static/js/main.0578ab05.js.map",
-    "787.71774a75.chunk.js.map": "/Harsh-Sharma-1/monsters-rolodex/static/js/787.71774a75.chunk.js.map"
+    "main.css": "/monsters-rolodex/static/css/main.77ff05bb.css",
+    "main.js": "/monsters-rolodex/static/js/main.1f8a0839.js",
+    "static/js/787.71774a75.chunk.js": "/monsters-rolodex/static/js/787.71774a75.chunk.js",
+    "index.html": "/monsters-rolodex/index.html",
+    "main.77ff05bb.css.map": "/monsters-rolodex/static/css/main.77ff05bb.css.map",
+    "main.1f8a0839.js.map": "/monsters-rolodex/static/js/main.1f8a0839.js.map",
+    "787.71774a75.chunk.js.map": "/monsters-rolodex/static/js/787.71774a75.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.77ff05bb.css",
-    "static/js/main.0578ab05.js"
+    "static/js/main.1f8a0839.js"
   ]
 }
